@@ -17,8 +17,8 @@
             "group": "Policies",          ← 새로 추가할 카테고리
             "pages": [
               "Flextime-Policy"
-      ]
-    },
+            ]
+           },
           {
             "group": "Getting started",
             "pages": [
