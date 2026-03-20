@@ -13,7 +13,13 @@
       {
         "tab": "Guides",
         "groups": [
-          {  
+          {
+            "group": "Policies",
+            "pages": [
+              "index-policy"
+            ]
+          },                        
+          {
             "group": "Getting started",
             "pages": [
               "index",
