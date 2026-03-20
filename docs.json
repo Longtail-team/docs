@@ -16,7 +16,8 @@
           {
             "group": "Policies",
             "pages": [
-              "policy-index"
+              "policy-index",
+              "policy-flextime"
             ]
           },                        
           {
