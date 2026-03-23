@@ -98,9 +98,8 @@
     }
   },
   "logo": {
-    "light": "/logo/doingle_logo.svg",
-    "dark": "/logo/doingle_logo.svg",
-    "width": 120
+    "light": "/logo/doingle.svg",
+    "dark": "/logo/doingle.svg"
   },
   "navbar": {
     "links": [
