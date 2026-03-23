@@ -14,10 +14,10 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "팀 소개",
+            "group": "온보딩",
             "pages": [
-              "team/members",
-              "team/doingle-life"
+              "onboarding/members",
+              "onboarding/slack"
               ]
           },
           {
