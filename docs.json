@@ -100,7 +100,7 @@
   "logo": {
     "light": "/logo/doingle.svg",
     "dark": "/logo/doingle.svg",
-    "width": 120
+    "width": 160
   },
   "navbar": {
     "links": [
