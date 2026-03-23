@@ -14,10 +14,11 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "온보딩",
+            "group": "1. 온보딩",
             "pages": [
               "onboarding/members",
-              "onboarding/slack"
+              "onboarding/slack",
+              "onboarding/clickup"
               ]
           },
           {
