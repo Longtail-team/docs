@@ -99,7 +99,7 @@
   },
   "logo": {
     "light": "/logo/doingle_logo.svg",
-    "dark": "/logo/doingle_logo.svg"
+    "dark": "/logo/doingle_logo.svg",
     "width": 120
   },
   "navbar": {
