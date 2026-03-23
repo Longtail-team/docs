@@ -16,7 +16,8 @@
           {
             "group": "팀 소개",
             "pages": [
-              "team/members"
+              "team/members",
+              "team/doingle-life"
               ]
           },
           {
