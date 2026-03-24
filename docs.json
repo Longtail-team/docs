@@ -58,6 +58,7 @@
               "common/office/entrance",
               "common/office/access-card",
               "common/office/space-reservation",
+              "common/office/office-quipment",
               "common/office/locker"
             ]
           },
