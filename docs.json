@@ -17,8 +17,7 @@
             "group": "1. 온보딩",
             "pages": [
               "common/address",
-              "common/members",
-              "common/doingle-life"
+              "common/members"
             ]
           },
           {
@@ -60,7 +59,8 @@
             "group": "6. 문화 & 기록",
             "pages": [
               "common/culture/monthly-meetup",
-              "common/culture/doingping"
+              "common/culture/doingping",
+              "common/culture/doingle-life"
             ]
           }
         ]
