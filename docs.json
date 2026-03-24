@@ -11,72 +11,157 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Getting Started",
         "groups": [
           {
-            "group": "1. 온보딩",
+            "group": "온보딩",
             "pages": [
-              "onboarding/members",
-              "onboarding/slack",
-              "onboarding/clickup"
-              ]
+              "common/onboarding",
+              "common/members",
+              "common/doingle-life"
+            ]
           },
           {
             "group": "근무 규정",
             "pages": [
-              "policy/flextime"
-            ]
-          },                        
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "common/policy/flextime",
+              "common/policy/remote-work",
+              "common/policy/short-work",
+              "common/policy/vacation"
             ]
           },
           {
-            "group": "Customization",
+            "group": "복리후생",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "common/benefits/health-check",
+              "common/benefits/year-end-tax",
+              "common/benefits/income-tax-reduction"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "사무실 & 시설",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "common/office/address",
+              "common/office/access-card",
+              "common/office/space-reservation",
+              "common/office/locker"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "장비 & 툴",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "common/tools/google-workspace",
+              "common/tools/slack",
+              "common/tools/clickup",
+              "common/tools/notion"
+            ]
+          },
+          {
+            "group": "문화 & 기록",
+            "pages": [
+              "common/culture/monthly-meetup",
+              "common/culture/doingping"
             ]
           }
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "사업본부",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "마케팅",
             "pages": [
-              "api-reference/introduction"
+              "business/marketing/product-management",
+              "business/marketing/meta-business",
+              "business/marketing/address-format"
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "커머스",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "business/commerce/coupang-review",
+              "business/commerce/imweb",
+              "business/commerce/imweb-orders"
+            ]
+          },
+          {
+            "group": "콘텐츠 제작",
+            "pages": [
+              "business/content/mp3-to-youtube",
+              "business/content/vimeo",
+              "business/content/youtube"
+            ]
+          },
+          {
+            "group": "인쇄 & 제작",
+            "pages": [
+              "business/print/digital-printing",
+              "business/print/yeorim-printing",
+              "business/print/ready-workbook-pdf"
+            ]
+          },
+          {
+            "group": "정보수집",
+            "pages": [
+              "business/research/case-wapaseo",
+              "business/research/edu-catchphrase"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "경영지원",
+        "groups": [
+          {
+            "group": "회계 & 재무",
+            "pages": [
+              "admin/finance/corporate-card",
+              "admin/finance/pg-sales",
+              "admin/finance/invoice",
+              "admin/finance/tax-receipt"
+            ]
+          },
+          {
+            "group": "법무",
+            "pages": [
+              "admin/legal/contract",
+              "admin/legal/trademark",
+              "admin/legal/vat-exemption"
+            ]
+          },
+          {
+            "group": "HR",
+            "pages": [
+              "admin/hr/vacation-form",
+              "admin/hr/maternity-leave",
+              "admin/hr/severance-pay",
+              "admin/hr/income-tax-reduction"
+            ]
+          },
+          {
+            "group": "대외 업무",
+            "pages": [
+              "admin/external/export",
+              "admin/external/freelancer-info",
+              "admin/external/personal-seal"
+            ]
+          },
+          {
+            "group": "경영 일반",
+            "pages": [
+              "admin/general/business-info",
+              "admin/general/admin-manual"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "레디 운영",
+        "groups": [
+          {
+            "group": "운영 매뉴얼",
+            "pages": [
+              "leddi/index"
             ]
           }
         ]
