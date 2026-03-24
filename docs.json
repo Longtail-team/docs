@@ -72,11 +72,11 @@
             ]
           },
           {
-            "group": "6. 문화 & 기록",
+            "group": "6. 기업 문화",
             "pages": [
               "common/culture/monthly-meetup",
               "common/culture/doingping",
-              "common/doingle-life"
+              "common/culture/doingle-life"
             ]
           }
         ]
