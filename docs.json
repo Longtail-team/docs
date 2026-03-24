@@ -55,6 +55,7 @@
           {
             "group": "4. 사무실 & 시설",
             "pages": [
+              "common/office/entrance",
               "common/office/access-card",
               "common/office/space-reservation",
               "common/office/locker"
