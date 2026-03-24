@@ -16,7 +16,6 @@
           {
             "group": "1. 온보딩",
             "pages": [
-              "common/onboarding",
               "common/members",
               "common/doingle-life"
             ]
