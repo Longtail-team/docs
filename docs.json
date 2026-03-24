@@ -14,7 +14,7 @@
         "tab": "Getting Started",
         "groups": [
           {
-            "group": "온보딩",
+            "group": "1. 온보딩",
             "pages": [
               "common/onboarding",
               "common/members",
@@ -22,7 +22,7 @@
             ]
           },
           {
-            "group": "근무 규정",
+            "group": "2. 근무 규정",
             "pages": [
               "common/policy/flextime",
               "common/policy/remote-work",
@@ -31,7 +31,7 @@
             ]
           },
           {
-            "group": "복리후생",
+            "group": "3. 복리후생",
             "pages": [
               "common/benefits/health-check",
               "common/benefits/year-end-tax",
@@ -39,7 +39,7 @@
             ]
           },
           {
-            "group": "사무실 & 시설",
+            "group": "4. 사무실 & 시설",
             "pages": [
               "common/office/address",
               "common/office/access-card",
@@ -48,7 +48,7 @@
             ]
           },
           {
-            "group": "장비 & 툴",
+            "group": "5. 장비 & 툴",
             "pages": [
               "common/tools/google-workspace",
               "common/tools/slack",
@@ -57,7 +57,7 @@
             ]
           },
           {
-            "group": "문화 & 기록",
+            "group": "6. 문화 & 기록",
             "pages": [
               "common/culture/monthly-meetup",
               "common/culture/doingping"
