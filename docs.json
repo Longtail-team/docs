@@ -98,7 +98,6 @@
         "groups": [
           {
             "group": "1. 마케팅",
-            "icon": "folder",
             "pages": [
               "business/marketing/product-management",
               "business/marketing/meta-business"
