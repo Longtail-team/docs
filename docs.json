@@ -225,6 +225,9 @@
       "vscode"
     ]
   },
+  "custom": {
+    "css": "/custom.css"
+  },
   "footer": {
     "socials": {
       "x": "https://x.com/mintlify",
