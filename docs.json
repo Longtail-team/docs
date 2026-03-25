@@ -4,10 +4,10 @@
   "name": "Mint Starter Kit",
   "font": {
     "headings": {
-      "family": "Pretendard"
+      "family": "Noto Sans KR"
     },
     "body": {
-      "family": "Pretendard"
+      "family": "Noto Sans KR"
     }
   },
   "colors": {
