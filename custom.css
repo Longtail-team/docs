@@ -1,0 +1,5 @@
+img[alt="light logo"],
+img[alt="dark logo"] {
+  height: 60px !important;
+  width: auto !important;
+}
