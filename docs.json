@@ -3,19 +3,19 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "fonts": {
-  "heading": {
-    "family": "Pretendard",
-    "source": "/fonts/Pretendard-Bold.woff2",
-    "format": "woff2",
-    "weight": 700
+    "heading": {
+      "family": "Pretendard",
+      "source": "/fonts/Pretendard-Bold.woff2",
+      "format": "woff2",
+      "weight": 700
+    },
+    "body": {
+      "family": "Pretendard",
+      "source": "/fonts/Pretendard-Regular.woff2",
+      "format": "woff2",
+      "weight": 400
+    }
   },
-  "body": {
-    "family": "Pretendard",
-    "source": "/fonts/Pretendard-Regular.woff2",
-    "format": "woff2",
-    "weight": 400
-  }
-}
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
