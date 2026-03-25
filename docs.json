@@ -100,8 +100,7 @@
             "group": "마케팅",
             "pages": [
               "business/marketing/product-management",
-              "business/marketing/meta-business",
-              "business/marketing/address-format"
+              "business/marketing/meta-business"
             ]
           },
           {
@@ -178,7 +177,8 @@
             "group": "경영 일반",
             "pages": [
               "admin/general/business-info",
-              "admin/general/admin-manual"
+              "admin/general/admin-manual",
+              "admin/general/address-format"
             ]
           }
         ]
