@@ -197,8 +197,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/doingle.svg",
-    "dark": "/logo/doingle.svg"
+    "light": "/logo/doingle350.svg",
+    "dark": "/logo/doingle350.svg"
   },
   "navbar": {
     "links": [
@@ -225,12 +225,6 @@
       "vscode"
     ]
   },
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/common/address"
-    }
-  ],
   "footer": {
     "socials": {
       "x": "https://x.com/mintlify",
