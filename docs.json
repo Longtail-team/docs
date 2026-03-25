@@ -4,10 +4,12 @@
   "name": "Mint Starter Kit",
   "font": {
     "headings": {
-      "family": "Noto Sans KR"
+      "family": "Noto Sans KR",
+      "weight": 400
     },
     "body": {
-      "family": "Noto Sans KR"
+      "family": "Noto Sans KR",
+      "weight": 400
     }
   },
   "colors": {
