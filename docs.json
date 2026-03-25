@@ -199,7 +199,7 @@
   "logo": {
     "light": "/logo/doingle.svg",
     "dark": "/logo/doingle.svg",
-    "width": 160
+    "width": 140
   },
   "navbar": {
     "links": [
