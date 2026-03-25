@@ -97,14 +97,15 @@
         "tab": "사업본부",
         "groups": [
           {
-            "group": "마케팅",
+            "group": "1. 마케팅",
+            "icon": "folder",
             "pages": [
               "business/marketing/product-management",
               "business/marketing/meta-business"
             ]
           },
           {
-            "group": "커머스",
+            "group": "2. 커머스",
             "pages": [
               "business/commerce/coupang-review",
               "business/commerce/imweb",
