@@ -1,6 +1,72 @@
 ---
-title: "페이지 제목"
-description: "페이지 설명"
+title: "아임웹 주문 내역 집계"
 ---
 
-내용을 작성하세요.
+# 계정
+
+- 아임웹 각 관리자 계정으로 로그인합니다.
+
+---
+
+# 주문내역 집계 진행
+
+- 대시보드에서 아래와 같은 단계에 따라 주문 내역을 확인합니다.
+
+<Steps>
+  <Step title="쇼핑">
+  </Step>
+  <Step title="상품">
+  </Step>
+  <Step title="주문내역에서 집계 할 상품 번호를 확인">
+    <Frame>
+      ![Image 28](/images/image-28.png)
+    </Frame>
+  </Step>
+  <Step title="주문">
+  </Step>
+  <Step title="고급">
+    <Frame>
+      ![Image 29](/images/image-29.png)
+    </Frame>
+  </Step>
+  <Step title="고급 설정 팝업창이 뜨면 조회기간을 배송완료일로 선택">
+    <Warning>
+      조회기간 미설정시, **입금대기** 주문건도 추출되니 유의해주세요.
+    </Warning>
+
+    <frame>
+      \
+    </frame>
+
+    <Frame>
+    </Frame>
+  </Step>
+  <Step title="상품번호 입력">
+  </Step>
+  <Step title="기간 설정">
+  </Step>
+  <Step title="검색">
+    <Frame>
+      ![Image 30](/images/image-30.png)
+    </Frame>
+  </Step>
+  <Step title="내보내기 클릭 후 검색결과 내 주문">
+    <Warning>
+      검색결과 내 주문 아닌 모든 주문 설정 시, 지금까지 주문내역 전부 추출됩니다.
+    </Warning>
+  </Step>
+  <Step title="엑셀파일 생성">
+  </Step>
+  <Step title="다운로드">
+    <Frame>
+      ![Image](/images/image-31.png)
+    </Frame>
+  </Step>
+</Steps>
+
+# 추출 완료된 주문내역 확인 시 주의사항
+
+- 최종결제금액은 할인쿠폰, 적립금 등이 적용되어 최종 결제한 금액이므로 이를 기준으로 해야 합니다.
+- 묶음 배송 건은 내역 상에 ‘묶음배송’ 이라고 표시되나, 최종결제금액에서 자동 분리 안됩니다.
+- 묶음 배송이 지원되지 않은 (즉 배송비가 따로 결제되는) 주문은 내역 상에 ‘단일배송’ 으로 표시되나, 최종결제금액 역시 분리 안됩니다.
+- 주문내역에 필터 적용하고 최종결제금액 열에 숫자가 크게 튀는 주문건이 있는지 확인해주세요!
