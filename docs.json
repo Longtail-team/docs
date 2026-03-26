@@ -98,7 +98,7 @@
             ]
           },
           {
-            "group": "콘텐츠 제작",
+            "group": "3. 콘텐츠 제작",
             "pages": [
               "business/content/mp3-to-youtube",
               "business/content/vimeo",
@@ -106,7 +106,7 @@
             ]
           },
           {
-            "group": "인쇄 & 제작",
+            "group": "4. 인쇄 & 제작",
             "pages": [
               "business/print/digital-printing",
               "business/print/yeorim-printing",
