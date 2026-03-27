@@ -81,9 +81,6 @@
       },
       {
         "tab": "사업본부",
-        "pages": [
-          "business/audio-test"
-        ],
         "groups": [
           {
             "group": "1. 마케팅",
