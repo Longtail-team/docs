@@ -81,6 +81,9 @@
       },
       {
         "tab": "사업본부",
+        "pages": [
+          "business/robinhillschool-book1-audio"
+        ],
         "groups": [
           {
             "group": "1. 마케팅",
