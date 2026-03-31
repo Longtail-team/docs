@@ -40,7 +40,8 @@
               "common/policy/flextime",
               "common/policy/remote-work",
               "common/policy/short-work",
-              "common/policy/vacation"
+              "common/policy/vacation",
+              "common/policy/vacation-form"
             ]
           },
           {
@@ -144,7 +145,6 @@
           {
             "group": "HR",
             "pages": [
-              "admin/hr/vacation-form",
               "admin/hr/maternity-leave",
               "admin/hr/severance-pay",
               "admin/hr/income-tax-reduction"
