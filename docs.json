@@ -146,8 +146,7 @@
             "group": "HR",
             "pages": [
               "admin/hr/maternity-leave",
-              "admin/hr/severance-pay",
-              "admin/hr/income-tax-reduction"
+              "admin/hr/severance-pay"
             ]
           },
           {
