@@ -162,7 +162,6 @@
             "group": "경영 일반",
             "pages": [
               "admin/general/business-info",
-              "admin/general/admin-manual",
               "admin/general/address-format"
             ]
           }
