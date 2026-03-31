@@ -41,7 +41,8 @@
               "common/policy/remote-work",
               "common/policy/short-work",
               "common/policy/vacation",
-              "common/policy/vacation-form"
+              "common/policy/vacation-form",
+              "common/policy/weekly-task-review"
             ]
           },
           {
