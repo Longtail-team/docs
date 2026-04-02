@@ -76,7 +76,8 @@
           {
             "group": "기업 문화",
             "pages": [
-              "common/culture/doingle-life"
+              "common/culture/doingle-life",
+              "common/culture/feedback"
             ]
           }
         ]
