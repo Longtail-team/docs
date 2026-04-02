@@ -28,14 +28,14 @@
         "tab": "Getting Started",
         "groups": [
           {
-            "group": "1. 온보딩",
+            "group": "온보딩",
             "pages": [
               "common/address",
               "common/members"
             ]
           },
           {
-            "group": "2. 근무 규정",
+            "group": "근무 규정",
             "pages": [
               "common/policy/flextime",
               "common/policy/remote-work",
@@ -46,7 +46,7 @@
             ]
           },
           {
-            "group": "3. 복리후생",
+            "group": "복리후생",
             "pages": [
               "common/benefits/health-check",
               "common/benefits/income-tax-reduction",
@@ -54,7 +54,7 @@
             ]
           },
           {
-            "group": "4. 사무실 & 시설",
+            "group": "사무실 & 시설",
             "pages": [
               "common/office/entrance",
               "common/office/access-card",
@@ -64,7 +64,7 @@
             ]
           },
           {
-            "group": "5. 협업용 툴",
+            "group": "협업용 툴",
             "pages": [
               "common/tools/google-workspace",
               "common/tools/slack",
@@ -73,7 +73,7 @@
             ]
           },
           {
-            "group": "6. 기업 문화",
+            "group": "기업 문화",
             "pages": [
               "common/culture/doingle-life"
             ]
@@ -84,14 +84,14 @@
         "tab": "사업본부",
         "groups": [
           {
-            "group": "1. 마케팅",
+            "group": "마케팅",
             "pages": [
               "business/marketing/product-management",
               "business/marketing/meta-business"
             ]
           },
           {
-            "group": "2. 커머스",
+            "group": "커머스",
             "pages": [
               "business/commerce/coupang-review",
               "business/commerce/imweb",
@@ -99,7 +99,7 @@
             ]
           },
           {
-            "group": "3. 콘텐츠 제작",
+            "group": "콘텐츠 제작",
             "pages": [
               "business/content/mp3-to-youtube",
               "business/content/vimeo",
