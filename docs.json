@@ -176,7 +176,8 @@
               "leddi/admin/database",
               "leddi/admin/seminar",
               "leddi/admin/business-card",
-              "leddi/admin/channel-talk"
+              "leddi/admin/channel-talk",
+              "leddi/admin/sales"
             ]
           }
         ]
