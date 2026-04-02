@@ -174,7 +174,8 @@
             "group": "운영 매뉴얼",
             "pages": [
               "leddi/admin/database",
-              "leddi/admin/seminar"
+              "leddi/admin/seminar",
+              "leddi/admin/business-card"
             ]
           }
         ]
