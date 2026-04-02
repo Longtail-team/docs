@@ -61,7 +61,8 @@
               "common/office/space-reservation",
               "common/office/office-quipment",
               "common/office/locker",
-              "common/office/space-reservation"
+              "common/office/space-reservation",
+              "common/office/wifi"
             ]
           },
           {
