@@ -60,7 +60,8 @@
               "common/office/access-card",
               "common/office/space-reservation",
               "common/office/office-quipment",
-              "common/office/locker"
+              "common/office/locker",
+              "common/office/reservation"
             ]
           },
           {
