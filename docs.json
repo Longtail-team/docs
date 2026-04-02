@@ -110,7 +110,7 @@
             ]
           },
           {
-            "group": "4. 인쇄 & 제작",
+            "group": "인쇄 & 제작",
             "pages": [
               "business/print/digital-printing",
               "business/print/yeorim-printing",
@@ -118,7 +118,7 @@
             ]
           },
           {
-            "group": "5. 정보수집",
+            "group": "정보수집",
             "pages": [
               "business/research/case-wapaseo",
               "business/research/edu-catchphrase"
