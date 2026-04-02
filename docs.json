@@ -177,7 +177,7 @@
               "leddi/admin/seminar",
               "leddi/admin/business-card",
               "leddi/admin/channel-talk",
-              "leddi/admin/sales"
+              "leddi/admin/pg-sales"
             ]
           }
         ]
