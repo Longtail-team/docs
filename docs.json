@@ -42,7 +42,8 @@
               "common/policy/short-work",
               "common/policy/vacation",
               "common/policy/vacation-form",
-              "common/policy/weekly-task-review"
+              "common/policy/weekly-task-review",
+              "common/policy/password"
             ]
           },
           {
